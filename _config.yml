@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.40784052370005486
+  lightness: 0.34317207968679453
+  rhythmicContrast: 0.259824136003002
+  saturation: 0.5998258813435552
+cta: {}
+layout_spectrum: 0.2000819555249035
+name: cv
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.02925156363335346
