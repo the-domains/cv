@@ -1,4 +1,19 @@
-analytics: {}
+name: cv
+favicon: null
+layout_spectrum: 0.75241
+typography_spectrum: 0.797297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -8,11 +23,9 @@ color:
     - '#FAD8D6'
   brandStrength: 0.40784052370005486
   lightness: 0.34317207968679453
-  rhythmicContrast: 0.259824136003002
   saturation: 0.5998258813435552
-cta: {}
-layout_spectrum: 0.422297
-name: cv
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.797297
+  rhythmicContrast: 0.259824136003002
+purpose:
+  - name: null
+    item: null
+    url: null
